@@ -2,7 +2,7 @@
 
 | Notebook | Presentación |
 | :-: | :-: |
-| [spotify_hits](spotify_hits.ipynb) | [presentacion_ds]() |
+| [spotify_hits_nb](https://drive.google.com/file/d/1-DofIwvLNQKPyONHnT38zz1P98zz4xMl/view?usp=sharing) | [spotify_hits_ppt](https://docs.google.com/presentation/d/1piGqdK01orpgIBErmuH4ViUg6_6xnhAK9dthA24K3Y4/edit?usp=sharing) |
 
 ## Contexto
 
