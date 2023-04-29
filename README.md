@@ -6,11 +6,15 @@
 
 ## Contexto
 
-¿Se puede predecir cuando una canción será un éxito? ¿Qué características tendría que tener una canción para que lo sea?
+> ¿Se puede predecir cuando una canción será un éxito? 
 
-Para contestar estas interrogantes, se creó un dataset con información acerca de canciones "hit" o "flop" (fracaso, en español) y sus características, mediante el uso de las API de Billboard y Spotify.
+> ¿Qué características tendría que tener una canción para que lo sea?
+
+El proyecto analiza características de canciones usando datos de Spotify para predecir su éxito y explorar su correlación. Podría ser útil para la industria musical, pero tiene limitaciones debido a datos insuficientes, cambios en la popularidad de la música y la ausencia de otras variables importantes como el marketing y el contexto cultural.
 
 ### Contenido del dataset
+
+Para contestar estas interrogantes, se construyó un dataset con información acerca de canciones exitosas vs fracasos y sus características, mediante el uso de las API de Billboard y Spotify. El procedimiento puede visualizarse desde el siguiente [notebook](https://drive.google.com/file/d/1Q_8CRv3exDGv4c9qbMnxKYhiPgRunl4t/view?usp=sharing).
 
 - **track**: Nombre de la pista.
 
