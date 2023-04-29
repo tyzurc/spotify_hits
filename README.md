@@ -1,13 +1,11 @@
 # Predicción de éxitos musicales usando Spotify
 
-| Notebook | Presentación |
-| :-: | :-: |
-| [spotify_hits_nb](https://drive.google.com/file/d/1yPm0ThOg46BFDgyB8krPyyXUk9Q3hD0x/view?usp=sharing) | [spotify_hits_ppt](https://docs.google.com/presentation/d/1piGqdK01orpgIBErmuH4ViUg6_6xnhAK9dthA24K3Y4/) |
+Notebook: [spotify_hits.ipynb](/spotify_hits.ipynb) | Presentación: [spotify_hits.pdf](/spotify_hits.pdf)
 
 ## Contexto
 
 > ¿Se puede predecir cuando una canción será un éxito? 
-
+>
 > ¿Qué características tendría que tener una canción para que lo sea?
 
 El proyecto analiza características de canciones usando datos de Spotify para predecir su éxito y explorar su correlación. Podría ser útil para la industria musical, pero tiene limitaciones debido a datos insuficientes, cambios en la popularidad de la música y la ausencia de otras variables importantes como el marketing y el contexto cultural.
