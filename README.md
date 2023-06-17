@@ -10,9 +10,6 @@ Notebook: [spotify_hits.ipynb](/spotify_hits.ipynb) | Presentación: [spotify_hi
 
 El proyecto analiza características de canciones usando datos de Spotify para predecir su éxito y explorar su correlación. Podría ser útil para la industria musical, pero tiene limitaciones debido a datos insuficientes, cambios en la popularidad de la música y la ausencia de otras variables importantes como el marketing y el contexto cultural.
 
-### Contenido del dataset
-
-Para contestar estas interrogantes, se construyó un dataset con información acerca de canciones exitosas vs fracasos y sus características, mediante el uso de las API de Billboard y Spotify. El procedimiento puede visualizarse desde el siguiente [notebook](https://drive.google.com/file/d/1Q_8CRv3exDGv4c9qbMnxKYhiPgRunl4t/view?usp=sharing).
 
 - **track**: Nombre de la pista.
 
@@ -52,7 +49,7 @@ Para contestar estas interrogantes, se construyó un dataset con información ac
 
 - **target**: La variable destino para la pista. Puede ser '0' o '1'. '1' implica que esta canción ha aparecido en la lista semanal (emitida por Billboards) de pistas Hot-100 en esa década al menos una vez y, por lo tanto, es un 'éxito'. '0' implica que la pista es un 'flop' o 'fracaso'.
 
-#### Criterio para que una canción sea un 'flop' o fracaso
+#### Criterio para que una canción sea un 'flop'
 
 - La pista no debe aparecer en la lista 'hit' de la década.
 - El artista de la pista no debe aparecer en la lista de 'hits' de la década.
